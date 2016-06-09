@@ -1,6 +1,7 @@
 # Activity3-GarduqueJA
 
-Not Yet finished 
+Not yet finished 
+
 
 MAIN MENU 
 
