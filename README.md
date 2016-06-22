@@ -5,17 +5,31 @@ Not yet finished
 
 MAIN MENU 
 
-![](Capture1.JPG)
+![](Capture.JPG)
 
 POLYNOMIAL
 
+![](Capture1.JPG)
 ![](Capture2.JPG)
-
-MATRIX
-
 ![](Capture3.JPG)
 
-
-EXIT
+STATISTICAL
 
 ![](Capture4.JPG)
+![](Capture5.JPG)
+![](Capture6.JPG)
+![](Capture7.JPG)
+![](Capture8.JPG)
+![](Capture9.JPG)
+
+MATRIX OPERATION
+
+![](Capture10.JPG)
+![](Capture11.JPG)
+![](Capture12.JPG)
+![](Capture13.JPG)
+![](Capture14.JPG)
+
+BACK TO MAIN MENU
+
+![](Capture15.JPG)
