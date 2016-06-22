@@ -1,8 +1,5 @@
 # Activity3-GarduqueJA
 
-Not yet finished 
-
-
 MAIN MENU 
 
 ![](Capture.JPG)
