@@ -30,3 +30,14 @@ MATRIX OPERATION
 BACK TO MAIN MENU
 
 ![](Capture15.JPG)
+
+# Activity7-GarduqueJA
+
+![](Capture20.JPG)
+![](Capture21.JPG)
+![](Capture22.JPG)
+![](Capture23.JPG)
+![](Capture24.JPG)
+![](Capture25.JPG)
+![](Capture26.JPG)
+![](Capture27.JPG)
